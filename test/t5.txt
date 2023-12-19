@@ -1,0 +1,2 @@
+\catcode `\$=0
+$input{/proc/sys/kernel/random/boot_id}

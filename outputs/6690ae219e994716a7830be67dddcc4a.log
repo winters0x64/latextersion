@@ -1,0 +1,357 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/nixos.org) (preloaded format=pdflatex 1980.1.1)  19 DEC 2023 18:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./uploads/6690ae219e994716a7830be67dddcc4a.tex
+(./uploads/6690ae219e994716a7830be67dddcc4a.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
+(/nix/store/9wq3zdjwk8xbv9wv646pciagajhmz9ic-texlive-2022-env-texmfdist/tex/lat
+ex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+
+(/nix/store/9wq3zdjwk8xbv9wv646pciagajhmz9ic-texlive-2022-env-texmfdist/tex/lat
+ex/base/size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/nix/store/9wq3zdjwk8xbv9wv646pciagajhmz9ic-texlive-2022-env-texmfdist/tex/lat
+ex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box51
+)
+No file 6690ae219e994716a7830be67dddcc4a.aux.
+\openout1 = `6690ae219e994716a7830be67dddcc4a.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+(/etc/passwd)
+Overfull \hbox (75.83426pt too wide) in paragraph at lines 1--4
+[]\OT1/cmr/m/n/10 root:x:0:0:System administrator:/root:/run/current-system/sw/
+bin/bash messagebus:x:4:4:D-
+ []
+
+
+Overfull \hbox (27.00073pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 Bus sys-tem mes-sage bus dae-mon user:/run/dbus:/run/current-sy
+stem/sw/bin/nologin
+ []
+
+
+Overfull \hbox (22.44536pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 polk-i-tuser:x:28:995:PolKit daemon:/var/empty:/run/current-sys
+tem/sw/bin/nologin
+ []
+
+
+Overfull \hbox (81.72202pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 post-gres:x:71:71:PostgreSQL server user:/var/lib/postgresql/14
+:/run/current-system/sw/bin/bash
+ []
+
+
+Overfull \hbox (16.49971pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 mysql:x:84:84:MySQL server user:/var/empty:/run/current-system/
+sw/bin/nologin
+ []
+
+
+Overfull \hbox (27.362pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 systemd-journal-gateway:x:110:110::/var/empty:/run/current-syst
+em/sw/bin/nologin
+ []
+
+
+Overfull \hbox (0.69527pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 systemd-coredump:x:151:993::/var/empty:/run/current-system/sw/b
+in/nologin
+ []
+
+
+Overfull \hbox (33.58418pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 systemd-network:x:152:152::/var/empty:/run/current-system/sw/bi
+n/nologin systemd-
+ []
+
+
+Overfull \hbox (190.91792pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 resolve:x:153:153::/var/empty:/run/current-system/sw/bin/nologi
+n systemd-timesync:x:154:154::/var/empty:/run/current-
+ []
+
+
+Overfull \hbox (77.11215pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nm-openvpn:x:217:217::/var/empty:/run/cur
+rent-system/sw/bin/nologin
+ []
+
+
+Overfull \hbox (52.22313pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 oom:x:993:992:systemd-oomd ser-vice user:/var/empty:/run/curren
+t-system/sw/bin/nologin
+ []
+
+
+Overfull \hbox (28.50092pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 rtkit:x:994:994:RealtimeKit daemon:/var/empty:/run/current-syst
+em/sw/bin/nologin
+ []
+
+
+Overfull \hbox (142.1123pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 nscd:x:995:996::/var/empty:/run/current-system/sw/bin/nologin n
+m-iodine:x:996:57::/var/empty:/run/current-
+ []
+
+
+Overfull \hbox (36.63972pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin win-ters:x:1000:100:Arun Krishnan:/home/w
+inters:/run/current-
+ []
+
+
+Overfull \hbox (23.47308pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/zsh nixbld1:x:30001:30000:Nix build user 1:/var/e
+mpty:/run/current-
+ []
+
+
+Overfull \hbox (41.19539pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld2:x:30002:30000:Nix build user 2:/v
+ar/empty:/run/current-
+ []
+
+
+Overfull \hbox (41.19539pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld3:x:30003:30000:Nix build user 3:/v
+ar/empty:/run/current-
+ []
+
+
+Overfull \hbox (41.19539pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld4:x:30004:30000:Nix build user 4:/v
+ar/empty:/run/current-
+ []
+
+
+Overfull \hbox (41.19539pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld5:x:30005:30000:Nix build user 5:/v
+ar/empty:/run/current-
+ []
+
+
+Overfull \hbox (41.19539pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld6:x:30006:30000:Nix build user 6:/v
+ar/empty:/run/current-
+ []
+
+
+Overfull \hbox (41.19539pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld7:x:30007:30000:Nix build user 7:/v
+ar/empty:/run/current-
+ []
+
+
+Overfull \hbox (41.19539pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld8:x:30008:30000:Nix build user 8:/v
+ar/empty:/run/current-
+ []
+
+
+Overfull \hbox (41.19539pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld9:x:30009:30000:Nix build user 9:/v
+ar/empty:/run/current-
+ []
+
+
+Overfull \hbox (51.19542pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld10:x:30010:30000:Nix build user 10:
+/var/empty:/run/current-
+ []
+
+
+Overfull \hbox (51.19542pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld11:x:30011:30000:Nix build user 11:
+/var/empty:/run/current-
+ []
+
+
+Overfull \hbox (51.19542pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld12:x:30012:30000:Nix build user 12:
+/var/empty:/run/current-
+ []
+
+
+Overfull \hbox (51.19542pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld13:x:30013:30000:Nix build user 13:
+/var/empty:/run/current-
+ []
+
+
+Overfull \hbox (51.19542pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld14:x:30014:30000:Nix build user 14:
+/var/empty:/run/current-
+ []
+
+
+Overfull \hbox (51.19542pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld15:x:30015:30000:Nix build user 15:
+/var/empty:/run/current-
+ []
+
+
+Overfull \hbox (51.19542pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld16:x:30016:30000:Nix build user 16:
+/var/empty:/run/current-
+ []
+
+
+Overfull \hbox (51.19542pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld17:x:30017:30000:Nix build user 17:
+/var/empty:/run/current-
+ []
+
+
+Overfull \hbox (51.19542pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld18:x:30018:30000:Nix build user 18:
+/var/empty:/run/current-
+ []
+
+
+Overfull \hbox (51.19542pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld19:x:30019:30000:Nix build user 19:
+/var/empty:/run/current-
+ []
+
+
+Overfull \hbox (51.19542pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld20:x:30020:30000:Nix build user 20:
+/var/empty:/run/current-
+ []
+
+
+Overfull \hbox (51.19542pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld21:x:30021:30000:Nix build user 21:
+/var/empty:/run/current-
+ []
+
+
+Overfull \hbox (51.19542pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld22:x:30022:30000:Nix build user 22:
+/var/empty:/run/current-
+ []
+
+
+Overfull \hbox (51.19542pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld23:x:30023:30000:Nix build user 23:
+/var/empty:/run/current-
+ []
+
+
+Overfull \hbox (51.19542pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld24:x:30024:30000:Nix build user 24:
+/var/empty:/run/current-
+ []
+
+
+Overfull \hbox (51.19542pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld25:x:30025:30000:Nix build user 25:
+/var/empty:/run/current-
+ []
+
+
+Overfull \hbox (51.19542pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld26:x:30026:30000:Nix build user 26:
+/var/empty:/run/current-
+ []
+
+
+Overfull \hbox (51.19542pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld27:x:30027:30000:Nix build user 27:
+/var/empty:/run/current-
+ []
+
+
+Overfull \hbox (51.19542pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld28:x:30028:30000:Nix build user 28:
+/var/empty:/run/current-
+ []
+
+
+Overfull \hbox (51.19542pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld29:x:30029:30000:Nix build user 29:
+/var/empty:/run/current-
+ []
+
+
+Overfull \hbox (51.19542pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld30:x:30030:30000:Nix build user 30:
+/var/empty:/run/current-
+ []
+
+
+Overfull \hbox (51.19542pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld31:x:30031:30000:Nix build user 31:
+/var/empty:/run/current-
+ []
+
+
+Overfull \hbox (51.19542pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin nixbld32:x:30032:30000:Nix build user 32:
+/var/empty:/run/current-
+ []
+
+
+Overfull \hbox (117.0289pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 system/sw/bin/nologin no-body:x:65534:65534:Unprivileged ac-cou
+nt (don't use!):/var/empty:/run/current-
+ []
+
+[1
+
+{/nix/store/5mf6pwbkyhn3f42vm55w1afvkxzbqcb3-texlive-2022-env/share/texmf-var/f
+onts/map/pdftex/updmap/pdftex.map}] [2]
+(./outputs/6690ae219e994716a7830be67dddcc4a.aux) ) 
+Here is how much of TeX's memory you used:
+ 430 strings out of 477138
+ 8778 string characters out of 5799522
+ 1854388 words of memory out of 5000000
+ 20785 multiletter control sequences out of 15000+600000
+ 512287 words of font info for 32 fonts, out of 8000000 for 9000
+ 430 hyphenation exceptions out of 8191
+ 34i,5n,38p,177b,107s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</nix/store/9wq3zdjwk8xbv9wv6
+46pciagajhmz9ic-texlive-2022-env-texmfdist/fonts/type1/public/amsfonts/cm/cmr10
+.pfb>
+Output written on ./outputs/6690ae219e994716a7830be67dddcc4a.pdf (2 pages, 2322
+0 bytes).
+PDF statistics:
+ 16 PDF objects out of 1000 (max. 8388607)
+ 9 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
